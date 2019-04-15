@@ -3,7 +3,10 @@ Prototyping territory based game concepts written in Python.
 
 # To Do
 * Main Game Loop
-  * Checking for victory
+  * Check if game setup needed
+  * Check for victory
+  * Check for defeat
+  * Increment turn counter
 * Game Setup
   * Determine map size
 * Map Builder
